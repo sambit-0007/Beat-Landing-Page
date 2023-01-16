@@ -1,5 +1,2 @@
-# Replicate the Following Output
-
-`Assests are Provided!`
-
-![Project 5](./Main%20Landing%20page.png)
+Beats Landing Page 
+https://celebrated-malasada-4831d6.netlify.app/
